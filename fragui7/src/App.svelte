@@ -27,7 +27,7 @@
   align-items: center;
  }
  .license_menu {
-  width: 20%;
+  width: 20rem;
   height: 70%;
   background: rgba(9, 8, 32, 0.247);
   border-radius: 1vh;
